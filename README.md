@@ -1,4 +1,4 @@
-# Vje-banje-gramatike
+# Vjezbanje-gramatike
 Program za vježbanje gramatike - pridjevi
 Koristan način za postavljanje zadataka.
 Pridjevi se mogu zamijeniti s drugim kategorijama.
