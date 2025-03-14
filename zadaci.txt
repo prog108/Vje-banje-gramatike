@@ -1,0 +1,15 @@
+Vaša vježba gramatike hrvatskoga jezika izgleda ovako.
+
+1) <ženski rod jednina> klima
+
+2) <ženski rod množina> vaze
+
+3) <muški rod jednina> program
+
+4) <muški rod množina> upravljači
+ 
+5) <srednji rod jednina> dugme
+
+6) <srednji rod množina> računala
+
+
